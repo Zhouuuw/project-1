@@ -1,0 +1,29 @@
+Offer a ride(member):
+		offer rides (providing):
+				including:
+					date
+					the number of seats offered
+					the price per seat
+					a luggage description
+					a source location
+					a destination location
+				do:
+					should automatically assign a unique ride number (rno) 
+					set the member as the driver of the ride.
+		adding(option)
+				if (a car number) isEnter
+					then check the car belongs to the member
+				any set of enroute locations{including source, destination and enroute}
+				
+		provides a keyword
+				location code
+				if kw != lcode
+					if more than 5 matching locations 
+					 		then return (top 5) locations(contains the keyword)
+					else
+						    then return (all) locations(contains the keyword)
+						    
+			
+
+		
+	
